@@ -1,0 +1,64 @@
+MewnBase - PortMaster testing
+Porter: Pixelforge ports (Ronax)
+
+Game: https://cairn4.itch.io/mewnbase
+Package: MewnBase.zip (BYO data; attach the built ZIP to this post)
+
+Install:
+Update PortMaster, put MewnBase.zip in its autoinstall folder and open PortMaster.
+Stay online for the Java 17 and Westonpack downloads if needed.
+Supply game/desktop-1.0.jar from your owned Windows build (1.0.1).
+Destination: <ports directory>/mewnbase/game/desktop-1.0.jar.
+On muOS: <SD card>/ports/mewnbase/game/desktop-1.0.jar.
+Also copy the complete matching data/ folder. Version 1.0.2 is unverified and opt-in.
+See the installed mewnbase.md for the checksum and manual installation instructions.
+
+Controls:
+| Control | Action |
+|---|---|
+| D-pad | Move mouse cursor, including on devices without sticks |
+| Left stick | Walk (W/A/S/D), when present |
+| Right stick | Move mouse cursor, when present |
+| A | Left mouse button; hold to drag or use tools |
+| B | Right mouse button |
+| X | Inventory / research (Tab) |
+| Y | Map (M) |
+| Start | Pause / options / back (Escape) |
+| Select | Hold for alternate keyboard controls |
+| Select + Y / A / X / B | Walk up / down / left / right (W/S/A/D) |
+| L1 | Hold for slower mouse movement |
+| R1 | Rotate tile (R) |
+| L2 | Enter / vehicle interaction |
+| R2 | Space / vehicle drift |
+| Select + L1 | Begin text entry, then release both buttons |
+| Select + R1 | Flashlight (F) |
+| Select + L2 | Drop item (Q) |
+| Select + R2 | Shift + Q |
+| Select + D-pad up / down | Scroll mouse wheel up / down |
+| Select + Start | Exit; save through the game first |
+
+On RG34XX SP and other devices without sticks, use the D-pad for the cursor and
+hold Select with the face buttons to walk. There is no host cursor/movement toggle.
+gptokeyb2 supplies real keyboard, mouse-button and pointer events. Use the cursor to click slots and drag scrollbars.
+
+Click a text field, press Select + L1, then release both buttons. During text entry, D-pad up/down chooses a letter, right advances, left deletes,
+A adds a letter; B deletes. Start confirms and leaves text entry. Select cancels. Focus a game text field before starting.
+
+Testing checklist for this build (please include exact device and firmware version):
+[ ] muOS: RG34XX SP / other RGXX device
+[ ] ArkOS / dArkOS: R36S
+[ ] AmberELEC
+[ ] ROCKNIX: specify graphics driver
+[ ] Knulli
+[ ] Other compatible ARM64 firmware
+[ ] 640x480
+[ ] 720x480
+[ ] 720x720
+[ ] 1024x768
+[ ] 1280x720
+
+Please test startup, menus, all controls, sound/music, normal gameplay speed,
+save/reload, suspend/resume and exit. Report performance during actual gameplay.
+Please also test A/B clicks in the main menu, dragging, text entry and walking on a device without analog sticks.
+For failures attach mewnbase/log.txt and steps to reproduce.
+Do not upload purchased game files, installers or personal information.

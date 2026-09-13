@@ -1,0 +1,9 @@
+{
+  "id": "mewnbase",
+  "title": "MewnBase",
+  "script": "MewnBase.sh",
+  "zip": "MewnBase.zip",
+  "game_file": "game/desktop-1.0.jar",
+  "mapping": "mewnbase.ini",
+  "runtime_libraries": false
+}

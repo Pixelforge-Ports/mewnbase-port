@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gameList>
+  <game>
+    <path>./MewnBase.sh</path>
+    <name>MewnBase</name>
+    <desc>Explore an alien planet as a space cat, gather resources and build a base to survive.</desc>
+    <releasedate>20231101T000000</releasedate>
+    <developer>Cairn4</developer>
+    <publisher>Cairn4</publisher>
+    <genre>Simulation</genre>
+    <image>./mewnbase/screenshot.png</image>
+  </game>
+</gameList>

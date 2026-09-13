@@ -1,0 +1,27 @@
+build/
+dist/
+__pycache__/
+*.pyc
+package/mewnbase/game/
+package/mewnbase/data/
+package/mewnbase/runtime/
+package/mewnbase/userdata/
+package/mewnbase/cache/
+package/mewnbase/log.txt
+package/mewnbase/game-version.txt
+
+# Generated/private content
+ports/
+build/
+dist/
+package/mewnbase/game/desktop-1.0.jar
+package/mewnbase/runtime/*-host.jar
+package/mewnbase/saves/
+package/mewnbase/cache/
+package/mewnbase/log.txt
+package/mewnbase/resolution.txt
+package/mewnbase/data/
+package/mewnbase/game/
+package/mewnbase/userdata/
+package/mewnbase/game-version.txt
+package/mewnbase/allow-unverified-1.0.2.txt

@@ -1,0 +1,10 @@
+Porter: Pixelforge ports (Ronax)
+
+Launcher, display.inc, controller mapping, documentation and build tools:
+LICENSE-mewnbase.txt (MIT, including retained BinaryCounter launcher attribution).
+runtime/mewnbase-host.jar: LICENSE-mewnbase-host.txt (MIT).
+Screenshot: NOTICE-mewnbase-assets.txt (original game rights, not MIT).
+gptokeyb2 controller mapper: LICENSE-gptokeyb.txt (GPL-2.0).
+The mapper executable, Java and Westonpack are supplied separately by PortMaster.
+Their complete runtime distributions retain their upstream licenses.
+No third-party library JARs or native binaries are bundled in this port ZIP.

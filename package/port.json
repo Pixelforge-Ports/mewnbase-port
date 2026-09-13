@@ -1,0 +1,43 @@
+{
+  "version": 4,
+  "name": "mewnbase.zip",
+  "items": [
+    "MewnBase.sh",
+    "mewnbase"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "MewnBase",
+    "porter": [
+      "Pixelforge ports (Ronax)"
+    ],
+    "desc": "Explore an alien planet as a space cat, gather resources and build a base to survive.",
+    "desc_md": null,
+    "inst": "Install MewnBase.zip, then copy your owned game/desktop-1.0.jar and complete data folder into the installed mewnbase folder. See mewnbase.md for supported files and installation steps. Requires compatible 64-bit ARM firmware and PortMaster Java 17 and Westonpack runtimes.",
+    "inst_md": null,
+    "genres": [
+      "simulation",
+      "adventure"
+    ],
+    "image": null,
+    "rtr": false,
+    "exp": false,
+    "runtime": [
+      "weston_pkg_0.2.squashfs",
+      "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+    ],
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ],
+    "min_glibc": "2.27",
+    "availability": "paid",
+    "store": [
+      {
+        "name": "itch.io",
+        "gameurl": "https://cairn4.itch.io/mewnbase",
+        "developerurl": "https://cairn4.com/"
+      }
+    ]
+  }
+}

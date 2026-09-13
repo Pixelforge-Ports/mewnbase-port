@@ -1,0 +1,1 @@
+MewnBase game code and assets belong to Cairn4 and are not licensed by this adaptation. The original owner JAR is unmodified and retains its bundled library notices. Java and Weston/gl4es runtimes are obtained separately through PortMaster and keep their respective licenses.
